@@ -1,0 +1,545 @@
+Introduction To Aerospace Engineering
+Thermodynamics For Aerospace Engineering
+THERMAL AND HEAT TRANSFER FOR AEROSPACE ENGINEERING
+Mechanics Of Materials
+Fluid Mechanics for Aerospace Engineering
+MATERIAL TESTING AND METROLOGY
+Aerodynamics
+Mechanisms And Machine Theory
+Aircraft Manufacturing Technology
+AEROSPACE STRUCTURES
+Aerospace Propulsion
+Computer Aided aircraft drawing
+Industrial Aerodynamics
+INTRODUCTION TO AEROSPACE ENGINEERING
+Guidance Navigation and Control
+Basic Workshop
+Thermodynamics for Aerospace Engineering
+Fluid Mechanics for Aerospace Engineering
+AEROSPACE INSTRUMENTATION AND MAINTENANCE
+COMPUTATIONAL FLUID DYNAMICS
+Aircraft Performance-Stability and Control
+Space Flight Mechanics
+Introduction to control Engineering
+SMART MATERIALS FOR AEROSPACE
+Hypersonic Aerodynamics
+Composite Material and Mechanics
+ROCKETS AND MISSILE TECHNOLOGY
+Experimental Aerodynamics
+Aeroelasticity
+AEROSPACE VEHICLE DESIGN
+
+Satellite Design
+Introduction to Bioengineering
+Physiology Of Cells And Tissues
+Cells ard Tissue Culture Techniques
+Cell and Tissue Culture Techniques
+Bio Inspired Design
+Human Physiology
+Molecular Biology And Genetic Engineering
+Biomateria Is
+Principles of Epidemiology
+Medical Electronics
+Bio Cybernetics
+Biomedical and Health Information Sciences
+Health Care Project Management
+Computational Biology and Analytics
+Immune Engineering
+Tissue Engineering
+Computational Biology and Analytics
+Drug Design and Delivery
+Bio safety Bioethics and Intellectual Property Rights
+Biomedical Instrumentation
+Global Health Challenges
+Drug Design and Delivery
+Cancer Biology
+Biosensors and MEMS
+Design of Medical Devices and Implants
+Advanced Biomaterials and Manufacturing Process
+Epigenetics
+Personalized Medicines
+Forensic Biology
+
+Stem Cells and Regenerative Medicine
+Bio Mechanics
+Bio Fluid Mechanics
+Applied Microbiology
+Human Resource Management
+Cloud Computing and Virtualization
+Cloud Architecture and Services
+Cloud Automation Tools and Applications
+Introduction to Cloud Services
+Cloud Data and Management
+Fog and Edge Computing
+Cloud Security Management
+High Performance Computing
+Containerization and Micro Services
+Internet of Things
+Parallel and Distributed Algorithms
+Cloud Orchestration Services
+Cloud Storage Infrastructures
+Cloud Strategy Planning and Management
+Foundations of Data Science
+Introduction To E-Commerce
+Social Netvvork Analysis
+Data Driven Decision Modelling
+IoT in E-Commerce
+Business Intelligence
+Warehouse Management
+E-Customer Relationship Management
+Data Privacy and Security in Business
+IT Applications in Retail Business
+Al & ML for Business
+
+Blockchain Technology
+Go Programming
+Scala Programming
+E-Supply Chain Management
+Introduction to Health Informatics
+Security and Privacy policies for Health Care
+IOT in Healthcare
+EMBEDDED SYSTEM DESIGN USING ARM
+Application of Healthcare Information System
+Ethical Legal Issues in Healthcare Informatics
+Healthcare Information System
+Healthcare IT Vendor Management
+Healthcare IT Administration
+App Development for Healthcare Informatics
+user Interface Design
+Artificial Intelligence in Healthcare
+Wearable Technologies and IoT
+Medical Terminology for Health Information Management
+Deep Learning for Health Informatics
+Blockchain in Healthcare
+Informatics for the Clinical Investigator
+Theoretical Concepts of Clinical Decisions Support Systems
+Information Technology and Patient Safety
+Applied Statistics for Health Data Science
+Image processing in healthcare informatics
+Immersive technologies in Healthcare informatics
+Introduction to cyber-physical systems
+Mixed reality
+Practical Implementation of Clinical Decision Support Systems
+Security Aspects in Healthcare Records
+
+Transforming Healthcare using Business Intelligence and Predictive Analytics
+Healthcare Data Analytics
+ENGINEERING CHEMISTRY
+Environmental Science
+310 CHEMISTRY
+Forensic Chemistry
+Forensic Chemistry and Applications
+Chemistry for Microelectronics
+Modeling And Simulation Of Biological Systems
+Advanced Computational Chemistry
+Digital Logic and Computer Architecture
+Agent Based Intelligent Systems
+Convex Optimization
+Reinforcement Learning
+Data Visualization
+Cloud Computing
+DATA MINING AND DATA WAREHOUSING
+DEEP LEARNING
+Al in Industry 4.0
+Bayesian Data Analysis
+Immersive Multimedia
+Surveillance video analytics and Image Processing
+Kubernetes for Al
+R Programming
+Social Media Analytics
+Knowledge Engineering
+Computer Vision for AUtonomOUS Vehicles
+Algorithm for Intelligent Systems
+Artificial Neural Networks
+Data Mining And Data Warehousing
+
+DEEP LEARNING
+Expert Systems and Fuzzy Logic
+Natural Language Processing
+COGNITIVE ANALYTICS
+APPLIED MACHINE LEARNING
+Open Source Operating System
+Data Analytics using Scala Programming
+Information Retrieval and Web Search
+Introduction to Brain and Neuro Science
+Open Source Frameworks in Machine Learning
+Applications of Al in Healthcare
+COMPUTATIONAL INTELLIGENCE
+HARDWARE ARCHITECTURE FOR MACHINE LEARNING
+OPTIMIZATION METHODS IN MACHINE LEARNING
+RANDOMIZED ALGORITHMS
+Machine Learning with Big Data
+Deep Learning
+Graph Analytics for Big Data
+Parallel and Distributed Systems
+Speech System
+Theoretical and Computational Neuroscience
+Game Al
+Artificial Intelligence in Business
+Decision and Support Systems
+NATURAL LANGUAGE PROCESSING
+REINFORCEMENT AND REPRESENTATION LEARNING
+PREDICTIVE AND TIME SERIES ANALYSIS
+Principles Of Digital Forensics
+CSD2001 - Mobile Device Forensics
+Data Structures and Analysis of Algorithms
+
+Secure Software Engineering
+Cyber Crimes and Laws
+Cyber Threat Analysis
+Data Privacy
+Android Security
+Block Chairs Ard Crypto Currencies
+Machine Learning Forensics
+Cyber Physical Systems
+Software Vulnerability Testing
+Ethical Hacking
+Network and System Security
+Cyber Clinic
+Network Forensics
+File System Forensics
+Cloud Security
+Cyber Security Framework
+Enterprise Cybersecurity Programme
+Embedded Systems and Security
+IoT Security
+Web Security
+Forensic Audio and Video Analysis
+Introduction to Problem Solving and Programming
+Introduction to Game Design
+Object Oriented Programming With C++
+Data Structures and Algorithms
+Computer Architecture and Organization
+Theory Of Computation And Compiler Design
+Object Oriented Programming using C++ and Java
+Software Engineering For Gaming
+Internship
+
+Database Management Systems
+Programming in Java
+Operating System
+Design and Analysis of Algorithms
+Engineering
+Computer Networks
+Artificial Intelligence
+Soft Computing
+Parallel and Distributed Computing
+Com puter Vision
+Python Programming
+Mobile Application Development
+Agile Software Development
+Medical Imaging
+Internet ard Web Programming
+DATA VISUALIZATION
+Bigdata Analytics
+Machine Learning
+Defined Network
+Softrvare Project Management
+Testing
+Advanced Java Programming
+Capstone Project
+Introduction to Game Design
+Game Programming
+Augmented Reality and Virtual Reality
+Engineering for Gamins
+Human Computer Interaction
+Computer Graphics and Multimedia
+Computer Vision and Robotics
+
+Game Programming using unity
+Gaming Hardware fundamentals and applications
+Artificial Intelligence and machine learning for Gamins
+Agile Game Development
+Augmented and Virtual Reality in Gaming
+Gaming in Cloud
+Multi threaded Programming
+Animation Mechanics and application
+HTML 5 Game Development
+Competitive Programming
+PROJECT EXHIBITION - II
+SUMMER INDUSTRIAL INTERNSHIP
+SEMESTER INTERNSHIP
+Engineering Design
+Internship
+Project Exhibition — II
+Engineering Project in Community Service
+Engineering Project in Community Service
+Capstone Project (Phase l)
+Capstone Project (Phase II)
+CAPSTONE PROJECT
+Comprehensive Examination
+Capstone Project
+Fundamentals of Al and Cybernetics
+Analog Electronics
+FUNDAMENTALS OF CYBERNETICS
+Electromagnetics and Transmission Lines
+Robotics and Mechatronics
+Multimedia Signal Processing
+Neural Networks and Evolutionary Computation
+
+PRINCIPLES OF COMMUNICATION SYSTEMS
+Fundamentals of Sensors And IoT
+Fundamentals of Sensors And IoT
+Robot Motion Control
+Autonomous Robotics
+Robot Operating System
+Body Area Networks
+Electron Devices And Circuits
+Digital Logic Design
+Signals and Systems
+Optoelectronics
+Debugging of Electronic Circuits and Systems
+ENGINEERING DESIGN
+Project Exhibition — II
+Analog Circuits
+Analog Electronic Circuits
+Transmission Lines and Waveguides
+Analog Communication Systems
+Microprocessors Ard Microcontrollers
+Digital Signal Processing
+Vlsi Design
+IC Technology - Design and Testing
+Digital System Design
+Micro Electro Mechanical Systems
+Information Theory and Coding
+Automotive Electrical and Electronic Systems
+Electronic Measurements ard Instrumentation
+Introduction to Signal and Systems
+Linear Integrated Circuits
+Antenna And Wave Propagation
+
+Digital Communication Systems
+Microwave and Optical Communication
+Wireless and Mobile Communication
+Sensors And lot
+Wireless Sensor Networks
+Wireless and Optical Communication Systems
+Satellite Communication
+Embedded Systems
+Embedded C and Linux
+Digital Image Processing
+Neural Networks and Fuzzy Systems
+Medical Electronics and Biomedical Instrumentation
+Radar and Navigational Systems
+Pattern Recognition and Analytics
+Aviation Electronics
+Data Communication ard Networking
+Comprehensive Examination
+Advanced Wireless and Mobile Communication
+Advanced Digital Communication and Broadband Access Technologies
+RF Circuit Design
+ASIC Design
+System on Chip Design
+Digital Control Systems
+RF IC Design
+Extra Curricular Activities
+Electric Circuits ard Systems
+Netvvork Analysis
+Electromagnetic Fields
+DC machines and Transformers
+High Voltage Engineering
+
+Measurements and Instrumentation
+AC Machines
+Control Systems
+Power System Engineering
+POWER ELECTRONICS
+Bio signals and Image Processing
+Biosystems ard Control
+Power System Analysis
+Electrical Drives And Control
+Power System Operation And Control
+SwitchGear and Protection
+FACTS Ard HVDC
+Microgrid and Smart Grid Technologies
+Deregulated and Restructured Power Systems
+Advanced Control Theory
+Communication for Technical Professionals
+Technical Writing Composition
+Legal Writing and Reporting
+Interactive Narrative
+Introduction to Linguistics
+Introduction to Computational Linguistics
+Extra-Curricular Activity
+ETHICS AND VALUES
+Emotional Intelligence
+Information Technology & Society
+Social Change and Development
+Anthropology For Engineers
+Ethics and Values
+Swachh Bharat
+Aptitude for Professional Development
+
+Logic And Language Structure
+Indian Culture And Heritage
+Indian Constitution
+Swachh Bharat
+Behavioural Science
+Foundations of Privacy and Security
+Professional Development for Engineers
+Calculus for Bioengineers
+Calculus for Bio Engineers
+Introduction to calculus
+Bridge Course - Mathematics
+Differential And Difference Equations
+Applied Numerical methods
+Operations Research
+Applied Cryptography
+Applications Of Differential Equations
+Applications of Differential Equations
+Complex variables and Partial differential equations
+Applied Linear Algebra
+Probability, Statistics And Reliability
+Random Process
+Computational Game Theory
+Transform Techniques
+Biostatistics
+Stochastic Process
+Statistical Inferences and Series of Function
+Advanced Computer Arithmetic
+Advanced Statistics
+Advance Graph Theory
+FOUNDATION TO ROBOTICS
+
+INDUSTRIAL ROBOTICS
+ROBOT MOTION CONTROL
+INTRODUCTION TO ARTIFICIAL INTELLIGENCE
+ROBOTICS PERCEPTION AND PLANNING
+ROBOTICS OPERATING SYSTEM
+MOBILE AND AUTONOMOUS ROBOTS
+UNMANNED AERIAL VEHICLES
+Engineering Drawing
+Engineering Mechanics
+Materials Engineering and Technology
+Engineering Thermodynamics
+Fluid Mechanics
+Basic workshop
+Engineering Graphics
+Machine Drawing
+Strength Of Materials
+Manufacturing Processes
+Thermal Engineering Systems
+Mechanics Of Machine
+Power Plant Engineering
+FUELS AND COMBUSTION
+New Product Development
+INSTRUMENTATION AND CONTROL ENGINEERING
+KINEMATICS OF MACHINERY
+MEMS
+Machine Drawing
+INTERNSHIP
+Cad/Cam
+DESIGN OF MACHINE ELEMENTS
+MACHINING PROCESSES AND METROLOGY
+
+H EAT TRANSFER
+DYNAMICS OF MACHINES
+IC ENGINES
+Renewable Energy Sources
+TURBOMACHINES
+Automobile Engineering
+Failure Analysis And Design
+Mechanical Vibrations
+ROBOTICS AND AUTOMATION
+Mechatronics
+MACHINING PROCESSES AND METROLOGY
+NON-DESTRUCTIVE TESTING
+Additive Manufacturing Technologies
+Design Of Transmission Systems
+Advanced Machining Processes
+COMPREHENSIVE EXAM
+CAPSTONE PROJECT
+PRINCIPLES OF MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR
+Managerial Economics
+Entrepreneurship
+Banking and Insurance
+Engineering Economics
+Technology Entrepreneurship
+Supply Chair Management
+Health Informatics
+Gender, Culture and Stereotyping in Gaming
+NASSCOM Future Skills - Associative Data Analyst
+NASSCOM Future Skills - Security Analyst -l
+Advanced Data Analytics
+Advanced Cyber Security
+
+Accounting and Financial Management
+Business Mathematics
+English for Science and Technology
+Functional French
+Knowledge Management
+Logistics and Supply Chain Management
+Marketing Management
+Statistical Data Analysis and Business Research
+Legal Aspects of Business
+Applied Machine Learning in python
+Block Chain Basics
+Calculus and Optimisation for Machine Learning
+Creative thinking technique ard tools to success
+Cyber Security in Manufacturing
+Data Management and Visualization
+Design Thinking
+Engineering Project Management: Initiating and Planning
+Engineering project management: scope, Time ard Cost Management
+Fundamentals of Global Energy Business
+How to Change the World
+HTML, CSS ard JavaScript for Web Developers
+Industrial IoT Markets and Security
+Introduction to Self-Drivirg Cars
+Leadership and Emotional Intelligence
+Making Successful Decisions through the Strategy, Law and Ethics Model
+Programming for everybody(getting started ir Python)
+Renewable Energy and Green Building Entrepreneurship
+The Bits and Bytes of Computer Networking
+Wind Energy
+Deep Learning in Computer Vision
+
+Hybrid Mobile App Development Frameworks: An Introduction
+IBM Al Engineering Professional Certificate
+Introduction to Logic
+Modern Robotics: Mechanics, Planning, and Control Specialization
+Gamification
+Innovation Strategy: Developing Your Fintech strategy
+Inspiring and Motivating Individuals
+Inspiring Leadership through Emotional Intelligence
+Introduction to Computer Application
+Programming in R
+Essentials of Machine Learning
+Principles of Programming
+Operating Systems
+Computer Networks
+Data Warehousing and Data Mining
+Problem Solving with Data Structures and Algorithms
+Intro to Bio- Inspired Design
+Artificial Intelligence for Beginners
+Machine Learning I-Ising Pyth
+Elements of Network Simulation
+IoT Design and Applications
+Game Physics
+Introduction to Computational Physics
+Fundamentals of Space Physics
+Physics of same development
+Material Science
+Energy ard Environmental Physics
+Computational Physics
+Game Physics Development (Physics Engine)
+Biophysics
+
+Bio Optics
+Programming for Computing Engineers
+Programming for Engineers
+Logic and Problem Solving for Engineers
+Competitive Coding Practices
+Competitive Coding Practices
+Lateral Thinking
+Introduction to Soft Skills
+Soft Skills for Engineers -l
+Professional Communication Skills for Engineers
+Soft Skills-II
+Soft Skills for Engineers - II
+Dynamics of workplace communication Skills
+Soft Skills for Engineers - II
+SoftSkills - Ill
+SOFT SKILLS I
+Soft Skills for Engineers - II
+Soft skills II
